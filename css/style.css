@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+a{
+    text-decoration: none;
+}
+#mycolor{
+    background-color: coral;
+}
+#mycolor2{
+    color: rgb(255, 255, 255);
+}
+#myradius{
+    border-radius: 50px;
+}
+#myfonts{
+    font-family: 'Titan One', cursive;
+    color: white;
+}
+#mypadding{
+    padding: 30px;
+}
+#myicons{
+    font-size: 30px;
+    color: white;
+    margin-left: 15px;
+}
+.size{
+    font-size: 15px;
+    padding: 15px;
+}
+#myfonts2{
+    font-family: 'Titan One', cursive;
+    color: rgb(31, 29, 29);
+}
+#myfonts3{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(31, 29, 29);
+}
+#myfonts4{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(31, 29, 29);
+    font-weight:bold;
+}
+.myradius2{
+    border-radius: 20px;
+    background-color: rgb(175, 125, 83);
+}
+.myfooter{
+    margin-top: 350px;
+}
+.myradius3{
+    border-radius: 20px;
+}
+.nav-link{
+    color: rgb(83, 45, 26);
+}
+.navbar-toggler{
+    border: 2px solid  rgb(83, 45, 26);
+}
+.myedit1{
+    background-color: coral;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
