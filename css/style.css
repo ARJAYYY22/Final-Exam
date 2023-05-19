@@ -95,3 +95,11 @@ a{
     padding-right: 65px;
     border-radius: 20px;
 }
+.lastedit{
+    background-color: coral;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
